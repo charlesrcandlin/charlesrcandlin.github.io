@@ -6,7 +6,7 @@ layout: page
 title: Homepage
 ---
 
-This is my homepage
+This is the homepage of Melanchthon AKA Charlie Candlin. Not to be confused with [this guy](https://melanchthon.com).
 
 OK?
 
